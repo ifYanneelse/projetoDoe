@@ -1,2 +1,22 @@
-# projetoDoe
-projeto DOE - Projeto de site para atuar como conexão entre os cidadãos  e estimular o movimento da cultura de doação. |  Projeto final IFSC 2022/1
+# projeto DOE
+
+
+## Sobre o projeto
+
+### Objetivo Geral
+
+### Objetivo Específico
+
+### Diagrama de casos de uso
+
+### Layout
+
+
+### Técnicas e ferramentas utilizadas
+-
+-
+-
+
+### Desenvolvedoras
+-
+-
