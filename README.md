@@ -1,5 +1,7 @@
 # projeto DOE
-
+<p align="center">  
+![logo projeto DOE](logoprojetodoe.png)  
+</p>
 
 ## Sobre o projeto
 
