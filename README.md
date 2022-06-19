@@ -31,7 +31,14 @@
 
 - API de WebService de consulta de cep (ViaCEP)
 
+### Features
+
+- [x] Cadastro de usuário
 
 ### Desenvolvedoras
 -
 -
+
+<h4 align="center"> 
+	🚧  Concluído para apresetação final 🚀 mas sempre em construção...  🚧
+</h4>
