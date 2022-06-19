@@ -21,7 +21,6 @@
 - Servidor: Apache
 - IDE: Visual Studio Code
 - Frameworks: Bootstrap
-- Adobe XD
 
     ##### Front-end: 
     - HTML5
@@ -31,10 +30,12 @@
     - Font Awesome
 
 - API de WebService de consulta de cep (ViaCEP)
+- Adobe XD
 
 ### Features
 
 - [x] Cadastro de usuário
+- [x] Cadastro de doação
 
 ### Desenvolvedoras
 -
