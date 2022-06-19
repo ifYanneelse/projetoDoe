@@ -15,10 +15,22 @@
 ### Layout
 
 
-### Técnicas e ferramentas utilizadas
--
--
--
+### 🛠 Técnicas e ferramentas utilizadas
+- Linguagem principal: PHP
+- Banco de dados: MySQL
+- Servidor: Apache
+- IDE: Visual Studio Code
+- Frameworks: Bootstrap
+
+    ##### Front-end: 
+    - HTML5
+    - CSS 
+    - Javascript
+    - Bootstrap
+    - Font Awesome
+
+- API de WebService de consulta de cep (ViaCEP)
+
 
 ### Desenvolvedoras
 -
