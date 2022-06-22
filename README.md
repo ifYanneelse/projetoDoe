@@ -41,9 +41,15 @@
 -
 -
 
+<br>
 
-  	Florianópolis/SC, 1º semestre de 2022 - Instituto Federal de Santa Catarina
- 
 <h4 align="center"> 
 	🚧  Concluído para apresetação final 🚀 mas sempre em construção...  🚧
 </h4>
+
+<br>
+
+1º semestre de 2022
+
+Instituto Federal de Santa Catarina
+ 
