@@ -43,9 +43,9 @@ A ideia do site é atuar como uma conexão entre os cidadãos  e estimular o mov
 ### Features
 
 - [x] Cadastro de usuário
-- [x] Informações do usuário
+- [x] Informações do usuário cadastrado
 - [x] Cadastro de doação
-- [x] Informação do item de doação
+- [x] Informações do item de doação
 - [x] Categorias de donativos
 - [ ] Cadastro da ONG
 - [ ] Chat
