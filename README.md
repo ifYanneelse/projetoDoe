@@ -19,9 +19,19 @@ A ideia do site é atuar como uma conexão entre os cidadãos  e estimular o mov
 
 
 ### Diagrama de casos de uso
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/ifYanneelse/projetoDoe/blob/main/imgtoreadme/diagrama.png">
+</p>
 
 ### Screen
-
+<p width="100%">
+<img width="90%" src="https://github.com/ifYanneelse/projetoDoe/blob/2916155afc4c91e8a238d928f7de11c48e719bd6/screen/home.png"> 
+  
+<img width="90%" src="https://github.com/ifYanneelse/projetoDoe/blob/2916155afc4c91e8a238d928f7de11c48e719bd6/screen/login.png">
+<img width="90%" src="https://github.com/ifYanneelse/projetoDoe/blob/2916155afc4c91e8a238d928f7de11c48e719bd6/screen/categorias.png">
+<img width="90%" src="https://github.com/ifYanneelse/projetoDoe/blob/2916155afc4c91e8a238d928f7de11c48e719bd6/screen/doe.png">
+   
+</p>
 
 ### 🛠 Técnicas e ferramentas utilizadas
 - Linguagem principal: PHP
